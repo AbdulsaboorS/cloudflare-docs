@@ -1,0 +1,31 @@
+src/components/realtimekit/RealtimeKitConceptsDiagram.astro
+  s_3b90d75c54d251::t_37ae407a9d7ae7 1-337
+src/components/realtimekit/RealtimeKitPresetDiagram.astro
+  s_070ebd1edc898c::t_1b8dbe5a03e79c 1-343
+src/components/realtimekit/RealtimeKitSessionLifecycleDiagram.astro
+  s_070ebd1edc898c::t_72d319273d4b58 1-338
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9fbd531ddf415ed1bc8fa28a513f6a3d22fa3c5f",
+  "prompts": {},
+  "sessions": {
+    "s_070ebd1edc898c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fef3a4d91ffeIa4TCOysYxLHrB",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "abdulsaboor <abdulsaboor@cloudflare.com>"
+    },
+    "s_3b90d75c54d251": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fdfaa5b85ffe0xpKgdFf9JJ2j1",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "abdulsaboor <abdulsaboor@cloudflare.com>"
+    }
+  }
+}
